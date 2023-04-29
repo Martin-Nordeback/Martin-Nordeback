@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **martin.nordeback@gmail.com**
 
-- ⚡ Fun fact **I used to be a chef, and i have worked on some of best restaurants in Nordic,**
+- ⚡ Fun fact **I used to be a chef, and i have worked on some of best restaurants in Sweden/Denmark**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
