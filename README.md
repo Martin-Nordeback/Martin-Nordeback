@@ -1,13 +1,15 @@
 <h1 align="left">Hello, I'm Martin Nordebäck</h1>
-<h3 align="left">A passionate Software Engineering Student from Sweden</h3>
+<h3 align="left">I am an aspiring mobile application developer currently studying at KYH Vocational College in Stockholm.   
+  <br /> My main focus is on Apple-OS (Swift, SwiftUI) and Android (Java, Kotlin). <br /> Before immersing myself in the world of code, I was a chef working at some of the top restaurants in Sweden and Denmark.
+</h3>
 
-- 👾 I’m currently focusing on learning **Swift, SwiftUI**
-- 👨🏼‍💻 I am now seeking an internship as a mobile developer between October 30, 2023, and April 12, 2024, I am open to all opportunities and would truly appreciate your insights into potential positions or leads. 
+## 🔎 I'm currently looking for:
+- 👨🏼‍💻 An internship as a iOS developer between October 30, 2023, and April 12, 2024. <br /> Open to all opportunities and would appreciate insights into potential positions.
+- 📫 Email: martin.nordeback@gmail.com
+- 📄 References & CV Available upon request  
 
-- 📫 **Reach me at martin.nordeback@gmail.com**
-- 📄 **Reference & CV** Available upon request  
+- ⚡ **Fun fact**, I used to be a chef and have worked at some of the best restaurants in Sweden/Denmark. <br />Transitioning from the kitchen to coding, I believe in blending creativity with precision, much like cooking!
 
-- ⚡ Fun fact **I used to be a chef, and i have worked on some of best restaurants in Sweden/Denmark**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
