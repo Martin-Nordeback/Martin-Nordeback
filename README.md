@@ -1,7 +1,12 @@
 <h1 align="left">Hello, I'm Martin Nordebäck</h1>
-<h3 align="left">I am an aspiring mobile application developer currently studying at KYH Vocational College in Stockholm.   
-  <br /> My main focus is on Apple-OS (Swift, SwiftUI) and Android (Java, Kotlin). <br /> Before immersing myself in the world of code, I was a chef working at some of the top restaurants in Sweden and Denmark.
-</h3>
+<h4 align="left"> I am an aspiring mobile application developer currently studying at KYH Vocational College in Stockholm.
+  <br />
+  <br /> My primary commitment is to mastering the iOS framework, with extensive expertise in Swift and SwiftUI. 
+  <br /> However, I also have a foundational understanding of the Android infrastructure, particularly with Java and Kotlin. 
+  <br />
+  <br /> My goal is to utilize these skills to create innovative and user-friendly mobile applications, and I'm excited to explore opportunities in which I can put my expertise into practice.
+  
+</h4>
 
 ## 🔎 I'm currently looking for:
 - 👨🏼‍💻 An internship as a iOS developer between October 30, 2023, and April 12, 2024. <br /> Open to all opportunities and would appreciate insights into potential positions.
