@@ -1,11 +1,11 @@
 <h1 align="left">Hello, I'm Martin Nordebäck</h1>
 <h3 align="left">A passionate Software Engineering Student from Sweden</h3>
 
+- 👾 I’m currently focusing on learning **Swift, SwiftUI**
+- 👨🏼‍💻 I am now seeking an internship as a mobile developer between October 30, 2023, and April 12, 2024, I am open to all opportunities and would truly appreciate your insights into potential positions or leads. 
 
-
-- 🌱 I’m currently focusing on learning **Swift, SwiftUI**
-
-- 📫 How to reach me **martin.nordeback@gmail.com**
+- 📫 **Reach me at martin.nordeback@gmail.com**
+- 📄 **Reference & CV** Available upon request  
 
 - ⚡ Fun fact **I used to be a chef, and i have worked on some of best restaurants in Sweden/Denmark**
 
