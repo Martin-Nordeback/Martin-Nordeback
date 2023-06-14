@@ -44,14 +44,9 @@
 
 ## Misc:
 ⌨️ Logitech MX Mechanical Mini, Keychron K2v2 RGB Aluminium Hot-Swap
-
-🖱️ Logitech MX Master 3S
-
-📸 Logitech BRIO 4K Stream Edition
-
-💡 BenQ ScreenBar HALO
-
-🎧 Apple AirPods Pro (2nd gen), Apple AirPods Max
-
-⌚ Apple Watch Ultra
+ <br /> 🖱️ Logitech MX Master 3S
+ <br /> 📸 Logitech BRIO 4K Stream Edition
+ <br /> 💡 BenQ ScreenBar HALO
+ <br /> 🎧 Apple AirPods Pro (2nd gen), Apple AirPods Max
+ <br /> ⌚ Apple Watch Ultra
 
