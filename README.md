@@ -1,15 +1,15 @@
 <h1 align="left">Hello, I'm Martin Nordebäck</h1>
 <h4 align="left"> I am an aspiring mobile application developer currently studying at KYH Vocational College in Stockholm.
   <br />
-  <br /> My primary commitment is to mastering the iOS framework, with extensive expertise in Swift and SwiftUI. 
+  <br /> My primary commitment is to mastering the iOS framework, with extensive expertise in Swift and both UIKit(Programmatically) & SwiftUI. 
   <br /> However, I also have a foundational understanding of the Android infrastructure, particularly with Java and Kotlin. 
   <br />
   <br /> My goal is to utilize these skills to create innovative and user-friendly mobile applications, and I'm excited to explore opportunities in which I can put my expertise into practice.
   
 </h4>
 
-## 🔎 I'm currently looking for:
-- 👨🏼‍💻 An internship as a iOS developer between October 30, 2023, and April 12, 2024. <br /> Open to all opportunities and would appreciate insights into potential positions.
+## 🔎 I'm currently focusing for:
+- 👨🏼‍💻 Intern as a iOS developer @Storytel between October 30, 2023, and April 12, 2024.
 - 📫 Email: martin.nordeback@gmail.com
 - 📄 References & CV Available upon request  
 
@@ -39,7 +39,7 @@
  <br /> 💻 MacBook 2020, 13-inch, 1,4 GHz Quad-Core Intel Core i5, 8 GB
 
 ## Monitors:
- 🖥️ LG 27'' UltraFine 27UN880 4K
+🖥️ LG 28MQ780 SDQHD 27.6” DualUp
  <br /> 🖥️ LG 28MQ780 SDQHD 27.6” DualUp
 
 ## Misc:
@@ -49,4 +49,5 @@
  <br /> 💡 BenQ ScreenBar HALO
  <br /> 🎧 Apple AirPods Pro (2nd gen), Apple AirPods Max
  <br /> ⌚ Apple Watch Ultra
+ <br /> 📱 Apple iPhone 15 pro
 
