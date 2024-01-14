@@ -1,10 +1,11 @@
 <h1 align="left">Hello, I'm Martin Nordebäck</h1>
-<h4 align="left"> I am an aspiring mobile application developer currently studying at KYH Vocational College in Stockholm.
+<h4 align="left"> As a dedicated junior developer based in Stockholm, I am currently enhancing my expertise in iOS
+development at Storytel. In my free time, I immerse myself in coding, tackling new challenges, and
+embracing learning as a significant part of my life.
   <br />
-  <br /> My primary commitment is to mastering the iOS framework, with extensive expertise in Swift and both UIKit(Programmatically) & SwiftUI. 
+  <br /> My primary commitment is to mastering the iOS framework, Swift and both UIKit & SwiftUI. 
   <br /> However, I also have a foundational understanding of the Android infrastructure, particularly with Java and Kotlin. 
   <br />
-  <br /> My goal is to utilize these skills to create innovative and user-friendly mobile applications, and I'm excited to explore opportunities in which I can put my expertise into practice.
   
 </h4>
 
