@@ -29,14 +29,16 @@ embracing learning as a significant part of my life.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martin-nordeback&show_icons=true&locale=en&layout=compact" alt="martin-nordeback" /></p>
 
 # My home setup
-<img src="https://github.com/Martin-Nordeback/Martin-Nordeback/assets/113906826/16a6cca8-6e38-479c-9d33-4f7c3437bfd5" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="324" height="422" />
+<img src="https://github.com/Martin-Nordeback/Martin-Nordeback/assets/113906826/441d50f1-1cf7-438c-aff9-9238a51112c8" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="324" height="422" />
+
 
 ## Computers:
  💻 MacBook 2023  16-inch, Apple M2 Pro, 32 GB
+ <br /> 💻 MacBook 2021  16-inch, Apple M2 Pro, 32 GB
  <br /> 💻 MacBook 2020, 13-inch, 1,4 GHz Quad-Core Intel Core i5, 8 GB
 
 ## Monitors:
-🖥️ LG 28MQ780 SDQHD 27.6” DualUp
+🖥️ Mac Studio Display 27
  <br /> 🖥️ LG 28MQ780 SDQHD 27.6” DualUp
 
 ## Misc:
