@@ -10,11 +10,11 @@ embracing learning as a significant part of my life.
 </h4>
 
 ## 🔎 I'm currently focusing for:
-- 👨🏼‍💻 Intern as a iOS developer @Storytel between October 30, 2023, and April 12, 2024.
+- 👨🏼‍💻 Intern as an iOS developer @Storytel between October 30, 2023, and June 2024.
 - 📫 Email: martin.nordeback@gmail.com
 - 📄 References & CV Available upon request  
 
-- ⚡ **Fun fact**, I used to be a chef and have worked at some of the best restaurants in Sweden/Denmark. <br />Transitioning from the kitchen to coding, I believe in blending creativity with precision, much like cooking!
+- ⚡ **Fun fact**, I used to be a chef and have worked at some of the best restaurants in Sweden/Denmark.
 
 
 <h3 align="left">Connect with me:</h3>
