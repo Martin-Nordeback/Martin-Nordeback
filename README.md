@@ -1,16 +1,17 @@
 <h1 align="left"> Martin Nordebäck  </h1>
-<h4 align="left"> As a dedicated junior developer based in Stockholm, I am currently enhancing my expertise in iOS
-development at Storytel. In my free time, I immerse myself in coding, tackling new challenges, and
-embracing learning as a significant part of my life.
+<h4 align="left"> As a passionate iOS developer based in Stockholm.
+  <br /> I am currently working as an Associate iOS Developer at Storytel. 
+<br />
+<br /> In my free time, I immerse myself in coding, tackling new challenges, and embracing learning as a significant part of my life.
   <br />
-  <br /> My primary commitment is to mastering the iOS framework, Swift and both UIKit & SwiftUI. 
+  <br /> My primary commitment is to mastering the iOS framework, Swift, and both UIKit & SwiftUI. 
   <br /> However, I also have a foundational understanding of the Android infrastructure, particularly with Java and Kotlin. 
   <br />
   
 </h4>
 
-## 🔎 I'm currently focusing for:
-- 👨🏼‍💻 Intern as an iOS developer @Storytel between October 30, 2023, and June 2024.
+## 🔎 At the moment:
+- 👨🏼‍💻 Working as an Associate iOS Developer @Storytel.
 - 📫 Email: martin.nordeback@gmail.com
 - 📄 References & CV Available upon request  
 
