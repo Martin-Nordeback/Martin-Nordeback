@@ -1,19 +1,12 @@
 <h1 align="left"> Martin Nordebäck  </h1>
 <h4 align="left"> As a passionate iOS developer based in Stockholm.
-  <br /> I am currently working as an Associate iOS Developer at Storytel. 
-<br />
-<br /> In my free time, I immerse myself in coding, tackling new challenges, and embracing learning as a significant part of my life.
-  <br />
-  <br /> My primary commitment is to mastering the iOS framework, Swift, and both UIKit & SwiftUI. 
-  <br /> However, I also have a foundational understanding of the Android infrastructure, particularly with Java and Kotlin. 
-  <br />
+  <br /> I am currently an iOS Developer @SBAB!-bank. 
   
 </h4>
 
 ## 🔎 At the moment:
-- 👨🏼‍💻 Working as an Associate iOS Developer @Storytel.
-- 📫 Email: martin.nordeback@gmail.com
-- 📄 References & CV Available upon request  
+- 👨🏼‍💻 Working as iOS Developer @SBAB!.
+- 📫 Email: martin.nordeback@gmail.com 
 
 - ⚡ **Fun fact**, I used to be a chef and have worked at some of the best restaurants in Sweden/Denmark.
 
@@ -34,20 +27,16 @@
 
 
 ## Computers:
- 💻 MacBook 2023  16-inch, Apple M2 Pro, 32 GB
+ 💻 MacBook 2025  16-inch, Apple M4 Pro, 32 GB
  <br /> 💻 MacBook 2021  16-inch, Apple M2 Pro, 32 GB
- <br /> 💻 MacBook 2020, 13-inch, 1,4 GHz Quad-Core Intel Core i5, 8 GB
 
-## Monitors:
+## Monitor:
 🖥️ Mac Studio Display 27
- <br /> 🖥️ LG 28MQ780 SDQHD 27.6” DualUp
 
 ## Misc:
-⌨️ Logitech MX Mechanical Mini, Keychron K2v2 RGB Aluminium Hot-Swap
  <br /> 🖱️ Logitech MX Master 3S
- <br /> 📸 Logitech BRIO 4K Stream Edition
  <br /> 💡 BenQ ScreenBar HALO
  <br /> 🎧 Apple AirPods Pro (2nd gen), Apple AirPods Max
  <br /> ⌚ Apple Watch Ultra
- <br /> 📱 Apple iPhone 15 pro
+ <br /> 📱 Apple iPhone 15 Pro
 
