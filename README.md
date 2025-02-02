@@ -26,7 +26,9 @@
 ## Misc:
  <br /> 🖱️ Logitech MX Master 3S
  <br /> 💡 BenQ ScreenBar HALO
- <br /> 🎧 Apple AirPods Pro (2nd gen), Apple AirPods Max
+ <br /> 🎧 Apple AirPods Pro (2nd gen)
  <br /> ⌚ Apple Watch Ultra
  <br /> 📱 Apple iPhone 15 Pro
+ <br /> 📱 Apple iPhone 16
 
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/5936aea5-04dd-4267-af33-0d29244a5a45" />
